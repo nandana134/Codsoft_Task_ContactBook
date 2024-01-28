@@ -1,1 +1,2 @@
 # Codsoft_Task_ContactBook
+This Python script features a ContactsManager class for a command-line contacts management application. Users can add, view, search, update, and delete contacts. The program employs a menu-driven interface, providing a straightforward way to interact with contact data. The application is suitable for basic contact management needs, offering essential functionalities in a user-friendly manner.
